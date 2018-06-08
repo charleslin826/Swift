@@ -21,7 +21,6 @@ struct Constants {
     
     // MARK: TMDB Parameter Keys
     struct TMDBParameterKeys {
-        //eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyOTdkMjQxMjVmM2JiMDllZTM0MjQ2ZDRhZWNlZjFlMCIsInN1YiI6IjVhZTc5Njk5OTI1MTQxMGNlNDAxMGU4MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Crqvwy5PKomiiZN-74nQqAd7wYoelLfC5iMs4YJEHg4
         static let ApiKey = "api_key"
         static let RequestToken = "request_token"
         static let SessionID = "session_id"
@@ -31,7 +30,7 @@ struct Constants {
     
     // MARK: TMDB Parameter Values
     struct TMDBParameterValues {
-        static let ApiKey = "297d24125f3bb09ee34246d4aecef1e0"
+        static let ApiKey = "*"
     }
     
     // MARK: TMDB Response Keys
