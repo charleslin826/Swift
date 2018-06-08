@@ -27,5 +27,4 @@ TheMovieManager_3rdAuth
 
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/TheMovieManager_3rdAuth/3.png) 
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/TheMovieManager_3rdAuth/4.png) 
-
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/TheMovieManager_3rdAuth/5.png) 
