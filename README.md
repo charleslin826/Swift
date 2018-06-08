@@ -31,7 +31,7 @@ TheMovieManager_3rdAuth
 
 Cassini _Basic: spinner, fetch image from url, user pinch to resize
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/Cassini/1.png) 
-![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/Cassini/2.png&s=300) 
+![alt text]("https://raw.githubusercontent.com/charleslin826/Swift/master/Cassini/2.png" width="100" height="100") 
 
 PlayingCard _Basic: random method, user slide, storyboard layout
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/PlayingCard/1.png) 
