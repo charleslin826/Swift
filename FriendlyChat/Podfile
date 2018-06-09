@@ -1,0 +1,15 @@
+# FriendlyChat
+
+use_frameworks!
+platform :ios, '10.3'
+
+
+pod 'Firebase/Storage'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
+pod 'Firebase/Database'
+pod 'Firebase/RemoteConfig'
+pod 'FirebaseUI'
+
+target 'FriendlyChatSwift' do
+end
