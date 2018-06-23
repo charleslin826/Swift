@@ -1,0 +1,4 @@
+TMDb API (電影） - iT 邦幫忙
+https://ithelp.ithome.com.tw/articles/10195116
+初學Swift：愛恨交織的 Optional - AppCoda
+https://www.appcoda.com.tw/swift-optional/
