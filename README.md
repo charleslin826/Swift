@@ -35,7 +35,7 @@ MyFavoriteMovie
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/MyFavoriteMovie/2.png) 
 
 
-TheMovieManager_3rdAuth
+TheMovieManager_3rdAuth +MVC +Refactor from "MyFavoriteMovie"(previous project)
 
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/TheMovieManager_3rdAuth/1.png) 
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/TheMovieManager_3rdAuth/2.png) 
@@ -48,7 +48,7 @@ Cassini
 -fetch image from url, 
 -user pinch to resize
 
-![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/Cassini/1.png) 
+![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/Cassini/2.png) 
 
 PlayingCard
 -random method, 
