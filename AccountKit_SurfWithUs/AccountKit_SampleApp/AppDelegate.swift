@@ -57,6 +57,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
     
     /*
+     Below is Obj-C 
     //  AppDelegate.m
     #import <FBSDKCoreKit/FBSDKCoreKit.h>
     

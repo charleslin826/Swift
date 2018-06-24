@@ -24,7 +24,7 @@ import FBSDKLoginKit
 // MARK: - LoginViewController: UIViewController
 
 final class LoginViewController: UIViewController {
-    2
+    
     // : Declare and initialize showAccountOnAppear
     // : Declare and initialize dataEntryViewController
     // MARK: Properties

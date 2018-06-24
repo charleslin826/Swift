@@ -37,7 +37,7 @@ class AccountViewController: UIViewController {
     
     //Helper
     
-    /// A flag indicating the presence of an AccountKit access token
+    /// A flag indicating the presence of an AccountKit access token (including phone & email)
     fileprivate let isAccountKitLogin: Bool = {
         return AKFAccountKit(responseType: .accessToken).currentAccessToken != nil
     }()
