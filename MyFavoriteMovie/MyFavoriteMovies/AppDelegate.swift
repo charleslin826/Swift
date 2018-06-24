@@ -42,9 +42,9 @@ extension AppDelegate {
     func tmdbURLFromParameters(_ parameters: [String:AnyObject], withPathExtension: String? = nil) -> URL {
         
         var components = URLComponents()
-        components.scheme = Constants.TMDB.ApiScheme
-        components.host = Constants.TMDB.ApiHost
-        components.path = Constants.TMDB.ApiPath + (withPathExtension ?? "")
+        components.scheme = Constants.TMDB.ApiScheme //http
+        components.host = Constants.TMDB.ApiHost //api.themoviedb.org
+        components.path = Constants.TMDB.ApiPath + (withPathExtension ?? "") // 3 + /authentication/token/new
         components.queryItems = [URLQueryItem]()
         
         for (key, value) in parameters {
@@ -53,5 +53,6 @@ extension AppDelegate {
         }
         
         return components.url!
+        //https://api.themoviedb.org/3/authentication/token/new?[queryItem]
     }
 }
