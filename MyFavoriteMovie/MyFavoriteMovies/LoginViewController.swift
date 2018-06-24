@@ -96,6 +96,7 @@ class LoginViewController: UIViewController {
         /* 2/3. Build the URL, Configure the request */
         let request = URLRequest(url: appDelegate.tmdbURLFromParameters(methodParameters as [String:AnyObject], withPathExtension: "/authentication/token/new"))
         //https://api.themoviedb.org/3/authentication/token/new?api_key=XXXXXXXXXX
+        //{"success":true,"expires_at":"2018-06-24 01:48:36 UTC","request_token":"XXXXXXX"}
         
         /* 4. Make the request */
         let task = appDelegate.sharedSession.dataTask(with: request) { (data, response, error) in
