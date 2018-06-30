@@ -7,8 +7,8 @@ AccountKit_SurfWithUs
 ![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/AccountKit_SurfWithUs/2.png)
 
 FriendlyChat
-![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/FriendlyChat/.png) 
-![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/FriendlyChat/.png)
+![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/FriendlyChat/1.png) 
+![alt text](https://raw.githubusercontent.com/charleslin826/Swift/master/FriendlyChat/2.png)
 
 
 
